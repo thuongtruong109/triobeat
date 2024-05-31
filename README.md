@@ -1,6 +1,23 @@
 # triobeat
 
-This template should help get you started developing with Vue 3 in Vite.
+> ✌️ A simple rock-paper-scissors game
+
+## Preview
+
+[Live Demo](https://triobeat.vercel.app/)
+
+![Preview](./public/preview.png)
+
+## Features
+
+- Choice option (rock-paper-scissors) against the computer
+- Keep track of the score
+- Win percentage
+- Statistics (total games played, wins, losses, draws)
+- Reset the score
+- History of previous games played
+- Replay again
+- Responsive design
 
 ## Recommended IDE Setup
 
