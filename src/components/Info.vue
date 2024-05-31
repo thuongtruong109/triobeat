@@ -9,7 +9,7 @@ defineProps<{
   choice: string
   computerChoice: string
   verdict: number
-  history: History
+  history: History[]
 }>()
 </script>
 
