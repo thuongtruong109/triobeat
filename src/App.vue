@@ -138,6 +138,9 @@ const ResetGame = () => {
   wins.value = 0
   draws.value = 0
   losses.value = 0
+  choice.value = null
+  computerChoice.value = null
+  verdict.value = null
 }
 </script>
 
